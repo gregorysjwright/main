@@ -1,2 +1,2 @@
 
-Each assignment is listed. THe assignment pdf, feedback received, original unedited code and modified code (phuqpe.zip) are in the zip files. There is also a report that can be found for each assignment in phuqpe.zip
+Each assignment is listed. THe assignment pdf, feedback received, original unedited code and modified code (phuqpe.zip) are in the zip files. There is also a report that can be found for each assignment in phuqpe.zip. Assignment 1 is the exception since no original code file was provided to do the assignment. Mainly, the assignments would ask to optimise and parallelise source code that already solves some form of maths/physics problem sequentially. Coded in C.
