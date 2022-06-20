@@ -1,0 +1,1 @@
+Here is a coding assessment done in Python. The test took less than an hour to complete.  
